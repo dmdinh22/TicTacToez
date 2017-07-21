@@ -1,0 +1,9 @@
+c:\users\dmdinh\Documents\Visual Studio 2017\Projects\WinForms_TTT\WinForms_TTT\bin\Debug\WinForms_TTT.exe.config
+c:\users\dmdinh\Documents\Visual Studio 2017\Projects\WinForms_TTT\WinForms_TTT\bin\Debug\WinForms_TTT.exe
+c:\users\dmdinh\Documents\Visual Studio 2017\Projects\WinForms_TTT\WinForms_TTT\bin\Debug\WinForms_TTT.pdb
+c:\users\dmdinh\Documents\Visual Studio 2017\Projects\WinForms_TTT\WinForms_TTT\obj\Debug\WinForms_TTT.csprojResolveAssemblyReference.cache
+c:\users\dmdinh\Documents\Visual Studio 2017\Projects\WinForms_TTT\WinForms_TTT\obj\Debug\WinForms_TTT.TicTacToe.resources
+c:\users\dmdinh\Documents\Visual Studio 2017\Projects\WinForms_TTT\WinForms_TTT\obj\Debug\WinForms_TTT.Properties.Resources.resources
+c:\users\dmdinh\Documents\Visual Studio 2017\Projects\WinForms_TTT\WinForms_TTT\obj\Debug\WinForms_TTT.csproj.GenerateResource.Cache
+c:\users\dmdinh\Documents\Visual Studio 2017\Projects\WinForms_TTT\WinForms_TTT\obj\Debug\WinForms_TTT.exe
+c:\users\dmdinh\Documents\Visual Studio 2017\Projects\WinForms_TTT\WinForms_TTT\obj\Debug\WinForms_TTT.pdb
